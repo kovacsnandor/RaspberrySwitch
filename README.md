@@ -2,7 +2,7 @@
 Led kigyújtása mikrokapcsolóval (Raspberry)
 
 ## Működés
-Ha  nyomógmbot megnyomjuk, a led bekapcsol, ha mégyeszer, akkor kikapcsol.
+Ha  nyomógmbot megnyomjuk, a led bekapcsol, ha mégegyszer, akkor kikapcsol.
 
 ## Kapcsolási rajz
 
