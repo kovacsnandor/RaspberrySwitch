@@ -1,5 +1,5 @@
 # RaspberrySwitch
-Led kigyújtása mikrokapcsolóval (Raspberry)
+Piros Led kigyújtása mikrokapcsolóval (Raspberry)
 
 ## Működés
 Ha  nyomógmbot megnyomjuk, a led bekapcsol, ha mégegyszer, akkor kikapcsol.
