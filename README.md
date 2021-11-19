@@ -12,6 +12,7 @@ Ha  nyomógmbot megnyomjuk, a led bekapcsol, ha mégegyszer, akkor kikapcsol.
 [raspberry](https://www.raspberrypi.org/)
 
 ## Forráskód
+Ez a program működteti a kapcsolót
 
 ```py
 import RPi.GPIO as GPIO
